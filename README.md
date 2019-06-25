@@ -1,1 +1,6 @@
-# warmup-week_07-day_04-AJAX
+## Warmup AJAX
+
+# API GIPHY
+  1- [giphy](https://developers.giphy.com/)
+  2- Generate a key 
+
