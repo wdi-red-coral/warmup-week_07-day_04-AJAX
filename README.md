@@ -3,7 +3,10 @@
 # API GIPHY
   - [giphy](https://developers.giphy.com/)
   - Use of a GIPHY API key 
+______
 
-### Idea of App
+#### The website in action:
+
+![website](https://i.ibb.co/DLChcDk/Untitled.gif)
 
 
