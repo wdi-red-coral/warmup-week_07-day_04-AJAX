@@ -2,7 +2,7 @@
 
 # API GIPHY
   - [giphy](https://developers.giphy.com/)
-  - Generate a key 
+  - Use of a GIPHY API key 
 
 ### Idea of App
 
